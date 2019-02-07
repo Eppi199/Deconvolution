@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ComponentDesigner" dslVersion="1.0.0.0" Id="39a384ad-71ae-4dcc-922c-efccd26b7148" name="UMLClassDiagram1" linkedPackageId="5ea52f01-7791-40e3-b026-29a1a09713ef" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="43721f95-fad3-4f62-bded-530f3fb541e3">
+      <profileInstance Id="2788d9e1-b4ba-4ea1-a827-a09e7d2989ea" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="b1b3f1cd-11df-4dbd-9910-69e1c6d090e4">
+      <profileInstance Id="1122839b-8bc8-400c-bf8e-d7f078129c0f" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f9d25e4b-8a11-4a9d-9fbf-28041c79ae00" name="ByteBitmap" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="e564995d-0ca7-4aac-9fc5-46391106bacc" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="08303b85-b136-403e-b9b0-a84ed618ff08" name="BitmapHelpers" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="5880f990-8ec4-44ee-a2bb-876f12a94553" />
+        <ownedAttributesInternal>
+          <property Id="b3c7ea36-61cc-4adb-b705-a4581bc34069" name="ByteBitmapToBitmap" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="76f19137-3b84-443c-a707-29eeed310968" />
+          </property>
+          <property Id="4c8bb3c7-0fc3-4e83-9c46-665368299f20" name="BitmapToByteBitmap" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="1ce80e85-93b5-459f-8080-17a881d72ddc" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="7b66d86d-4e9f-4982-b8ff-cc3380dfc710" name="FFTHelpers" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a6269038-88a8-4e50-bbac-8d78c843b252" />
+        <ownedAttributesInternal>
+          <property Id="eec10272-49a0-4598-b444-3e71fe8ad679" name="AdditionToPowerOfTwo" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="3d9068da-7d82-402d-bc0a-bf072d86aa06" />
+          </property>
+          <property Id="d967af41-9b54-4a91-864c-bf9a8078672e" name="FitByteBitmapForFFT2D" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4d552e1f-8b4b-4c38-8d11-5ec51d0b236b" />
+          </property>
+          <property Id="dfb3e82d-9b3b-4b48-87a8-570fa42569b7" name="GetFittedByteBitmapFromFFT2D" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="fba59b88-e4e7-4a31-993c-9eaac2037827" />
+          </property>
+          <property Id="1660729f-1f6f-4fa5-8cfa-5a848c53e05f" name="ByteBitmapToComplex" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b3ef96ab-d347-4f63-8261-4b7afee5899c" />
+          </property>
+          <property Id="ca9f3c6d-f80d-4ecf-b02d-15df9fe92a7d" name="ComplexToByteBitmap" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="baf1a8bc-9909-406e-9ea6-eb58e42c84e1" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="98d37732-db17-454c-a67a-c3c1b7fb28b7" name="WienerDeconv" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="49bff6b7-b908-47a6-9e6b-41a56a2eb28b" />
+        <ownedAttributesInternal>
+          <property Id="944576bf-e976-4895-b5fa-7ca2f96f4ca5" name="GetFocusBlurComplexImage" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="ce6a80bd-6ed7-4b5b-af84-11f451c4e7ca" />
+          </property>
+          <property Id="2a3d1a06-656e-4da9-9ac0-2acb61e4e6e6" name="GetGaussianComplexImage" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="e3c8fcfc-5192-403e-bac8-2ca1129a59d1" />
+          </property>
+          <property Id="ef2b432f-6397-47ff-bb50-4fbf574c1d54" name="GetMotionComplexImage" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="b3df8290-116a-4390-8992-026dcce5faee" />
+          </property>
+          <property Id="049c9a9f-69e8-4866-bc7d-77690e9b5aaf" name="WienerFilter" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="a6794540-d315-4c59-8ede-31c39cab8515" />
+          </property>
+          <property Id="0f29c7f2-8f6a-4255-9c63-a467b1a0912d" name="WienerFilterFromOutOfFocus" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="975d6fc3-7aa1-42b8-b1cc-eeef1ef3813c" />
+          </property>
+          <property Id="99cc1f5c-baf6-4346-aa40-1e17631f4dba" name="WienerFilterFromGaussian" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="243ad419-1b98-4156-bb0e-c73b4775393d" />
+          </property>
+          <property Id="d3986ecf-721b-46b2-a817-5c4f1de8d138" name="WienerFilterFromMoution" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="9526af6d-d652-4ced-a2ab-6a2a89f63319" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="5ea52f01-7791-40e3-b026-29a1a09713ef" name="FTP">
+    <elementDefinition Id="1df4d16e-d001-4263-9a13-a8d86c698e1c" />
+  </package>
+</logicalClassDesignerModel>

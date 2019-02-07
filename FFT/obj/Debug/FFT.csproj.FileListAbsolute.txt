@@ -1,0 +1,73 @@
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\FFT.exe.config
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\FFT.exe
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\FFT.pdb
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.exe
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\obj\Debug\FFT.pdb
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\AForge.Imaging.dll
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\AForge.Math.dll
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\AForge.dll
+C:\Users\ace\Documents\Visual Studio 2012\Projects\FFT\FFT\bin\Debug\AForge.xml
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\FFT.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\FFT.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\FFT.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\AForge.Imaging.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\AForge.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\bin\Debug\AForge.xml
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\FFT\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\FFT.exe.config
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.exe
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.pdb
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\FFT.exe
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\FFT.pdb
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\AForge.Imaging.dll
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\AForge.Math.dll
+C:\222\FFT ЧБ\FFT ЧБ\FFT\bin\Debug\AForge.xml
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.Form1.resources
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\222\FFT ЧБ\FFT ЧБ\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\FFT.exe.config
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.exe
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.pdb
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\FFT.exe
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\FFT.pdb
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\AForge.Imaging.dll
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\AForge.Math.dll
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\bin\Debug\AForge.xml
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\Александр\Desktop\FFT ЧБ\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\FFT.exe.config
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.exe
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.pdb
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\FFT.exe
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\FFT.pdb
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\AForge.Imaging.dll
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\AForge.Math.dll
+C:\Users\Александр\Desktop\FFT ChB\FFT\bin\Debug\AForge.xml
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\Александр\Desktop\FFT ChB\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\FFT.exe.config
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.exe
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.pdb
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\FFT.exe
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\FFT.pdb
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\AForge.Imaging.dll
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\AForge.Math.dll
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\bin\Debug\AForge.xml
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\Александр\Desktop\Восстановление изображений\FFT ChB\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
